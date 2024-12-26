@@ -1,0 +1,30 @@
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.exe.config
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.exe
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.pdb
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.AssemblyReference.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form1_ServerScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form2_PreparatoryScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form3_ShipSelectScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form4_GameScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Properties.Resources.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.GenerateResource.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.CoreCompileInputs.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.exe
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.pdb
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\Guna.UI2.dll
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\Battlesh.774D997C.Up2Date
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.exe.config
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.exe
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\BattleshipMp.pdb
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\bin\Debug\Guna.UI2.dll
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.AssemblyReference.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form1_ServerScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form2_PreparatoryScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form3_ShipSelectScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Form4_GameScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.Properties.Resources.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.GenerateResource.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMpServer.csproj.CoreCompileInputs.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\Battlesh.774D997C.Up2Date
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.exe
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpServer\obj\Debug\BattleshipMp.pdb

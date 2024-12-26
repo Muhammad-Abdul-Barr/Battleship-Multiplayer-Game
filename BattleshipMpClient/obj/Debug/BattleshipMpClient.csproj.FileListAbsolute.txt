@@ -1,0 +1,30 @@
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.exe.config
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.exe
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.pdb
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.AssemblyReference.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form1_ClientScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form2_PreparatoryScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form3_ShipSelectScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form4_GameScreen.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Properties.Resources.resources
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.GenerateResource.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.CoreCompileInputs.cache
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.exe
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.pdb
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\Guna.UI2.dll
+C:\Users\Malic\Downloads\Compressed\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\Battlesh.182CCCB4.Up2Date
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.exe.config
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.exe
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\BattleshipMpClient.pdb
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\bin\Debug\Guna.UI2.dll
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.AssemblyReference.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form1_ClientScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form2_PreparatoryScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form3_ShipSelectScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Form4_GameScreen.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.Properties.Resources.resources
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.GenerateResource.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.csproj.CoreCompileInputs.cache
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\Battlesh.182CCCB4.Up2Date
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.exe
+D:\Study\5th Semester\CN\BattleshipMp-master\BattleshipMp-master\BattleshipMpClient\obj\Debug\BattleshipMpClient.pdb
